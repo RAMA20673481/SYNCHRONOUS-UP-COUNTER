@@ -52,6 +52,7 @@ RegisterNumber:24000309
 ![Screenshot 2024-12-07 115258](https://github.com/user-attachments/assets/dbc269ed-cc84-4d0d-a0b3-0ac1b5ba1e02)
 
 **STATE DIAGRAM**
+
 ![Screenshot 2024-12-07 115644](https://github.com/user-attachments/assets/7bed0855-a9c6-4d2c-8630-3ed15588e07f)
 
 **RESULTS**
